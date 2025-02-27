@@ -55,11 +55,6 @@ I am a passionate software engineer with a strong interest in technology and inn
 
 ---
 
-## 🔥 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huykg1112&show_icons=true&theme=radical)](https://github.com/huykg1112)
-
----
-
 ### 📜 Quote of the Day
 > "Live as if you were to die tomorrow. Learn as if you were to live forever."  
 > *— Mahatma Gandhi*
