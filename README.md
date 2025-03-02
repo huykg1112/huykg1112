@@ -44,7 +44,7 @@ I am a passionate software engineer with a strong interest in technology and inn
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Sandbox](https://img.shields.io/badge/Sandbox-5D5FEF?style=for-the-badge&logoColor=white)
 
-### API Methods
+### API Architecture
 - **REST API**
 - **GraphQL**
 
