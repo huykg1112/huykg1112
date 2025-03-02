@@ -42,7 +42,6 @@ I am a passionate software engineer with a strong interest in technology and inn
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Sandbox](https://img.shields.io/badge/Sandbox-5D5FEF?style=for-the-badge&logoColor=white)
 
 ### API Architecture
 - **REST API**
@@ -51,7 +50,12 @@ I am a passionate software engineer with a strong interest in technology and inn
 ---
 
 ## 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huykg1112&layout=compact&theme=radical)](https://github.com/huykg1112)
+<a href="https://github.com/huykg1112">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huykg1112&theme=radical&hide" >
+</a>
+<a href="https://github.com/huykg1112">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=huykg1112&show_icons=true&theme=dark&line_height=30" alt="Huy's github stats"/>
+</a>
 
 ---
 
