@@ -45,7 +45,7 @@ I am a passionate software engineer with a strong interest in technology and inn
 
 ### API Architecture
 - **REST API**
-- **GraphQL**
+- **GraphQL** 
 
 ---
 
