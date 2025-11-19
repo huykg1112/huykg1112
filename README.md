@@ -7,7 +7,7 @@ I am a passionate software engineer with a strong interest in technology and inn
 ## 📱 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)  
 ✉️ huyth.dev@gmail.com 
-🔗thhuydev.id.vn
+🔗 thhuydev.id.vn
 
 ---
 
